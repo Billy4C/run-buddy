@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://billy4c.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Derek Brimhall
+Made with ❤️ by Derek Brimhall and Billy in 4C
 
 ### &copy;  2019 Run Buddy, Inc
